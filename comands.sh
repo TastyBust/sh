@@ -1,0 +1,16 @@
+bash create_mail_user_SQL.shy4rsdxyif4@firstmail.ru fuk787f7jxkh > /tmp/users.sql
+bash create_mail_user_SQL.shm6ple9vo2v@firstmail.ru 10piw5uq0aro >> /tmp/users.sql
+bash create_mail_user_SQL.shudlza69f1e@firstmail.ru fw2yo56fb2p6 >> /tmp/users.sql
+bash create_mail_user_SQL.shi1m0xxker8@firstmail.ru 8v99nu5gj9dq >> /tmp/users.sql
+bash create_mail_user_SQL.shq7gp7y6bg7@firstmail.ru v2691dbmcqil >> /tmp/users.sql
+bash create_mail_user_SQL.shm2ywomuay6@firstmail.ru ztmze3mnhbix >> /tmp/users.sql
+bash create_mail_user_SQL.shd2rxc6oll2@firstmail.ru k5x5036ti3jh >> /tmp/users.sql
+bash create_mail_user_SQL.shph590ffvav@firstmail.ru zx2egk1wsbrr >> /tmp/users.sql
+bash create_mail_user_SQL.shz79ofg9ams@firstmail.ru n9ceb5k8wlvs >> /tmp/users.sql
+bash create_mail_user_SQL.shnzbr8k5iqa@firstmail.ru nw71bow8lwl5 >> /tmp/users.sql
+bash create_mail_user_SQL.shbcw561xihp@firstmail.ru hvt5247vl0gp >> /tmp/users.sql
+bash create_mail_user_SQL.shap3rekppt4@firstmail.ru k649i02qgj9s >> /tmp/users.sql
+bash create_mail_user_SQL.sh42jejehldh@firstmail.ru ooxzmar88msu >> /tmp/users.sql
+bash create_mail_user_SQL.shii4ge00taa@firstmail.ru d4qh3ekzrmtp >> /tmp/users.sql
+bash create_mail_user_SQL.shrke2tdj5vn@firstmail.ru v0ycjybb8d95 >> /tmp/users.sql
+bash create_mail_user_SQL.shp1shtia9ut@firstmail.ru 4wfi9s08ukpa >> /tmp/users.sql
